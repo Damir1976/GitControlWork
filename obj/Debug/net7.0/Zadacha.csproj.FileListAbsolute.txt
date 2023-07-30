@@ -1,0 +1,15 @@
+F:\GIT_Controlwork\Zadacha\obj\Debug\net7.0\Zadacha.csproj.AssemblyReference.cache
+F:\GIT_Controlwork\Zadacha\obj\Debug\net7.0\Zadacha.GeneratedMSBuildEditorConfig.editorconfig
+F:\GIT_Controlwork\Zadacha\obj\Debug\net7.0\Zadacha.AssemblyInfoInputs.cache
+F:\GIT_Controlwork\Zadacha\obj\Debug\net7.0\Zadacha.AssemblyInfo.cs
+F:\GIT_Controlwork\Zadacha\obj\Debug\net7.0\Zadacha.csproj.CoreCompileInputs.cache
+F:\GIT_Controlwork\Zadacha\bin\Debug\net7.0\Zadacha.exe
+F:\GIT_Controlwork\Zadacha\bin\Debug\net7.0\Zadacha.deps.json
+F:\GIT_Controlwork\Zadacha\bin\Debug\net7.0\Zadacha.runtimeconfig.json
+F:\GIT_Controlwork\Zadacha\bin\Debug\net7.0\Zadacha.dll
+F:\GIT_Controlwork\Zadacha\bin\Debug\net7.0\Zadacha.pdb
+F:\GIT_Controlwork\Zadacha\obj\Debug\net7.0\Zadacha.dll
+F:\GIT_Controlwork\Zadacha\obj\Debug\net7.0\refint\Zadacha.dll
+F:\GIT_Controlwork\Zadacha\obj\Debug\net7.0\Zadacha.pdb
+F:\GIT_Controlwork\Zadacha\obj\Debug\net7.0\Zadacha.genruntimeconfig.cache
+F:\GIT_Controlwork\Zadacha\obj\Debug\net7.0\ref\Zadacha.dll
